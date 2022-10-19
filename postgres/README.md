@@ -1,14 +1,13 @@
-
-# Docker
+# Install Mongo
 
 ```Bash
     cd linux-essentials-one-command-installtion-in-ubuntu
 ```
 
 ```Bash
-    cd docker
+    cd mongo
 ```
 
 ```Bash
-    sudo bash install_docker.sh
+    sudo bash install-MongoDB-Community-Edition.sh
 ```

@@ -1,14 +1,13 @@
-
-# Docker
+# Install Apache2
 
 ```Bash
     cd linux-essentials-one-command-installtion-in-ubuntu
 ```
 
 ```Bash
-    cd docker
+    cd apache
 ```
 
 ```Bash
-    sudo bash install_docker.sh
+    sudo bash install_apache.sh
 ```
